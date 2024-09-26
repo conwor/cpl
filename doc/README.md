@@ -5,6 +5,7 @@
 - [C99 standard](./c99.pdf)
 - [System V ABI](./gabi41.pdf)
 - [System V ABI Intel386 Supplement](./abi386-4.pdf)
+- [Executable and Linkable Format](./ELF_Format.pdf)
 
 ## Академическая литература
 
