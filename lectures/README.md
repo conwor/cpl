@@ -50,3 +50,5 @@
 практическое руководство по заданию "Fork - Exec"
 1. [Practice Guideline (Task 29, Cooperative Multitasking)](https://docs.google.com/presentation/d/1-1jC8aG4SIqPjJuWA0aJwYFaCya2ljAWm9t7QYEvfnI/edit?usp=drive_link) -
 практическое руководство по заданию "Кооперативная многозадачность"
+1. [Static Linking](https://docs.google.com/presentation/d/1c8Oh5YYZlx01VYnMSYWVrn_2nY6-sGBxBglUKYX464c/edit#slide=id.g2af13c2e7c9_0_3) -
+статическая линковка
