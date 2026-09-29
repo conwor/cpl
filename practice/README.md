@@ -12,5 +12,8 @@
 08 | [Общие делители](                       https://github.com/conwor/cpl-homework-08) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-08/accept)
 09 | [Простые множители](                    https://github.com/conwor/cpl-homework-09) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-09/accept)
 10 | [Pac-Man](                              https://github.com/conwor/cpl-homework-10) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-10/accept)
+11 | [Поиск элемента в массиве](             https://github.com/conwor/cpl-homework-11) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-11/accept)
+12 | [Поиск подмассива в массиве](           https://github.com/conwor/cpl-homework-12) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-12/accept)
+13 | [Сравнение массивов](                   https://github.com/conwor/cpl-homework-13) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-13/accept)
 
 **TODO**

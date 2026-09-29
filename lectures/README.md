@@ -25,5 +25,7 @@
 функции, локальные переменные, параметры, возвращаемые значения, стек вызовов, детали реализации
 1. [Pointers](https://docs.google.com/presentation/d/1nZrBSjzkAZd9NGGD3QnfFKz4ROHaOsMyGU_8d3WY-6k/edit?usp=drive_link) -
 указатели, передача параметров по адресу, значения указателей
+1. [Arrays](https://docs.google.com/presentation/d/1p2KON6fs497vVMqtk92TjdQclee0zBlnNbYqUYYuC38/edit?usp=drive_link) -
+одномерные массивы, практики работы с массивами, адресная арифметика, **VLA**
 
 **TODO**
