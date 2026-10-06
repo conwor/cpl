@@ -27,5 +27,7 @@
 указатели, передача параметров по адресу, значения указателей
 1. [Arrays](https://docs.google.com/presentation/d/1p2KON6fs497vVMqtk92TjdQclee0zBlnNbYqUYYuC38/edit?usp=drive_link) -
 одномерные массивы, практики работы с массивами, адресная арифметика, **VLA**
+1. [Dynamic Memory](https://docs.google.com/presentation/d/17QtDGtn_x3159qZladJawV5qvh2SmXggnMM9mAZKUzM/edit?usp=drive_link) -
+динамическая память, эффективная реализация динамического массива
 
 **TODO**

@@ -15,5 +15,8 @@
 11 | [Поиск элемента в массиве](             https://github.com/conwor/cpl-homework-11) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-11/accept)
 12 | [Поиск подмассива в массиве](           https://github.com/conwor/cpl-homework-12) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-12/accept)
 13 | [Сравнение массивов](                   https://github.com/conwor/cpl-homework-13) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-13/accept)
+14 | [Чтение массива неопределённой длины](  https://github.com/conwor/cpl-homework-14) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-14/accept)
+15 | [Динамический массив](                  https://github.com/conwor/cpl-homework-15) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-15/accept)
+16 | [concat & cut](                         https://github.com/conwor/cpl-homework-16) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-16/accept)
 
 **TODO**
