@@ -18,5 +18,7 @@
 14 | [Чтение массива неопределённой длины](  https://github.com/conwor/cpl-homework-14) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-14/accept)
 15 | [Динамический массив](                  https://github.com/conwor/cpl-homework-15) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-15/accept)
 16 | [concat & cut](                         https://github.com/conwor/cpl-homework-16) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-16/accept)
+17 | [Умножение матриц](                     https://github.com/conwor/cpl-homework-17) | 2 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-17/accept)
+18 | [Треугольник Паскаля](                  https://github.com/conwor/cpl-homework-18) | 2 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-18/accept)
 
 **TODO**
