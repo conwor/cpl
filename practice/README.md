@@ -20,5 +20,6 @@
 16 | [concat & cut](                         https://github.com/conwor/cpl-homework-16) | 1 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-16/accept)
 17 | [Умножение матриц](                     https://github.com/conwor/cpl-homework-17) | 2 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-17/accept)
 18 | [Треугольник Паскаля](                  https://github.com/conwor/cpl-homework-18) | 2 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-18/accept)
+19 | [Разбиение текста на слова](            https://github.com/conwor/cpl-homework-19) | 2 | 1 | [Создать решение](https://classroom50.org/nsu-syspro/cpl/assignments/homework-19/accept)
 
 **TODO**
